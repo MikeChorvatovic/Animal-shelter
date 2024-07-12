@@ -2,13 +2,12 @@
 
 purpose of our tool is:
 
-Adoption Matching System: An AI system that analyzes the personality traits, behavior patterns, and preferences of animals in the shelter, along with potential adopters' profiles, to suggest ideal matches. This could increase the chances of uccessful adoptions.
+Adoption Matching System: An AI system that analyzes the personality traits, behavior patterns, and preferences of animals in the shelter, along with potential adopters' profiles, to suggest ideal matches. This could increase the chances of successful adoptions.
+
 Lost and Found Pet Recognition: Implementing image recognition AI to match lost pets with those in the shelter could reunite more animals with their owners.
 
 
-
-
-
+TODO:
 To implement a system where a person fills out a questionnaire to find a potential animal match from the shelter's database, a software engineer would need to follow these steps:
 
 Design the Questionnaire: Create a form with questions that will help filter animals based on the adopter's preferences and circumstances. Typical questions might include:
